@@ -1,5 +1,4 @@
 requests
-pillow
+Pillow
 Adafruit_SSD1306
 pyserial
-RPi.GPIO
